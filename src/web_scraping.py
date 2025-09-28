@@ -33,7 +33,3 @@ def scrape_distracted_boyfriend(client_id, client_secret, user_agent, limit=200)
 
     return pd.DataFrame(posts)
 
-if __name__ == "__main__":
-    df = scrape_distracted_boyfriend(CLIENT_ID , CLIENT_SECRET, USER_AGENT)
-    df.to_csv("distracted_boyfriend_posts.csv", index=False)
-
