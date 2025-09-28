@@ -34,11 +34,11 @@ Analysing the trend of a particular meme template over time, using Reddit as the
 
 2. **Run the analysis script:**
    ```bash
-   python main.py
+   python src/main.py
    ```
 
 3. **View Results:**
-   - Output results will be available in your terminal or as specified in your script.
+   - Output results will be available in the result/ directory.
 
 ## Contributing
 

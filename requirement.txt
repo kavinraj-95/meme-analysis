@@ -1,0 +1,6 @@
+praw
+dotenv
+pandas
+matplotlib
+nltk
+networks
