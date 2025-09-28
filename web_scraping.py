@@ -1,4 +1,3 @@
-# web_scraping.py
 import praw
 import pandas as pd
 from dotenv import load_dotenv 

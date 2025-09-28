@@ -1,4 +1,3 @@
-# social_network.py
 import praw
 import pandas as pd
 import networkx as nx
