@@ -7,6 +7,12 @@ Analysing the trend of a particular meme template over time, using Reddit as the
 - Track the popularity and usage trend of specific meme templates.
 - Uses Reddit as the primary data source.
 
+## What this project does
+ -- Web Scraping (Reddit) 
+ --Text analysis
+ --Time Series
+ --Social Network analysis
+
 ## Installation
 
 1. **Clone the repository:**
