@@ -8,10 +8,10 @@ Analysing the trend of a particular meme template over time, using Reddit as the
 - Uses Reddit as the primary data source.
 
 ## What this project does
- -- Web Scraping (Reddit) 
- --Text analysis
- --Time Series
- --Social Network analysis
+ - Web Scraping (Reddit) 
+ - Text analysis
+ - Time Series
+ - Social Network analysis
 
 ## Installation
 
